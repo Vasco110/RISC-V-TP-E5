@@ -1,0 +1,42 @@
+Quartus Prime Archive log --	C:/Users/inaki/Desktop/ITBA/2C2026/E5/ProcesadorTP.qarlog
+
+Archive:	C:/Users/inaki/Desktop/ITBA/2C2026/E5/ProcesadorTP.qar
+Date:		Wed Oct 21 22:48:49 2026
+Quartus Prime		24.1std.0 Build 1077 03/04/2025 SC Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/inaki/AppData/Local/quartus/ProcesadorTP.bdf
+C:/Users/inaki/AppData/Local/quartus/ProcesadorTP.qpf
+C:/Users/inaki/AppData/Local/quartus/ProcesadorTP.qsf
+C:/Users/inaki/AppData/Local/quartus/alu.v
+C:/Users/inaki/AppData/Local/quartus/decoder.v
+C:/Users/inaki/AppData/Local/quartus/fetch.v
+C:/Users/inaki/AppData/Local/quartus/jmpctrl.v
+C:/Users/inaki/AppData/Local/quartus/mux2.bsf
+C:/Users/inaki/AppData/Local/quartus/mux2.qip
+C:/Users/inaki/AppData/Local/quartus/mux2.v
+C:/Users/inaki/AppData/Local/quartus/mux2_bb.v
+C:/Users/inaki/AppData/Local/quartus/pctargetcalc.v
+C:/Users/inaki/AppData/Local/quartus/reg8.v
+C:/Users/inaki/AppData/Local/quartus/regbank.v
+C:/Users/inaki/AppData/Local/quartus/rom-p1.hex
+C:/Users/inaki/AppData/Local/quartus/rom-p32.hex
+C:/Users/inaki/AppData/Local/quartus/rom32.bsf
+C:/Users/inaki/AppData/Local/quartus/rom32.qip
+C:/Users/inaki/AppData/Local/quartus/rom32.v
+C:/Users/inaki/AppData/Local/quartus/rom32_bb.v
+C:/Users/inaki/AppData/Local/quartus/rom8.bsf
+C:/Users/inaki/AppData/Local/quartus/rom8.qip
+C:/Users/inaki/AppData/Local/quartus/rom8.v
+C:/Users/inaki/AppData/Local/quartus/rom8_bb.v
+c:/altera_lite/24.1std/quartus/bin64/assignment_defaults.qdf
+	======= Total: 25 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Wed Oct 21 22:50:15 2026
+Source archive file:	C:/Users/inaki/Desktop/ITBA/2C2026/E5/ProcesadorTP.qar
+Archive was extracted into	C:/Users/inaki/Desktop/ITBA/2C2026/E5/ProcesadorTP/
+		 - successfully.
